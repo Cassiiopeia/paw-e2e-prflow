@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-09-24T17:15:35Z",
+    "currentVersion": "0.2.0",
+    "projectTypes": [
+      "node"
+    ],
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "0.2.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-09-24",
+      "pr_number": 1,
+      "raw_summary": "## [0.2.0]\n\n### ✨ 기능\n- 인사 함수 greet 추가\n\n### 🐛 수정\n- 출력 문구 오타 수정",
+      "parsed_changes": {
+        "기능": {
+          "title": "✨ 기능",
+          "items": [
+            "인사 함수 greet 추가"
+          ]
+        },
+        "수정": {
+          "title": "🐛 수정",
+          "items": [
+            "출력 문구 오타 수정"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    }
+  ]
+}
