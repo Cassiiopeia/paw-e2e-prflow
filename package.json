@@ -1,6 +1,6 @@
 {
   "name": "paw-e2e-prflow",
-  "version": "0.3.1",
+  "version": "0.5.0",
   "description": "project-auto-wizard E2E sandbox",
   "main": "index.js",
   "scripts": {
