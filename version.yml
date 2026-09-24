@@ -28,8 +28,8 @@
 # - basic: version.yml only
 # ===
 
-version: "1.0.0"
-version_code: 7  # app build number
+version: "1.0.1"
+version_code: 8  # app build number
 project_types: ["node"] # first entry is primary
 project_paths: # 타입별 프로젝트 폴더 (레포 루트 기준 상대경로)
   node: "." # package.json
@@ -49,7 +49,7 @@ metadata:
       mode: "pr-flow" # pr-flow | trunk-based
     options:
       nexus: false
-      secret_backup: false
+      secret_backup: true
       semver_auto: true
       copilot_ai: false
       deploy_style: "simple" # simple | nginx | traefik | none (서버 배포 워크플로우)
