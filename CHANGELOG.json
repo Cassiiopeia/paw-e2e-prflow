@@ -1,13 +1,37 @@
 {
   "metadata": {
-    "lastUpdated": "2026-09-24T17:30:35Z",
-    "currentVersion": "1.0.0",
+    "lastUpdated": "2026-09-24T17:33:33Z",
+    "currentVersion": "1.0.1",
     "projectTypes": [
       "node"
     ],
-    "totalReleases": 8
+    "totalReleases": 9
   },
   "releases": [
+    {
+      "version": "1.0.1",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-09-24",
+      "pr_number": 9,
+      "raw_summary": "## [1.0.1]\n\n### 🐛 수정\n- 권한 변경 후 릴리스 확인\n\n### 🔧 변경사항\n- secret-backup 워크플로우 설치",
+      "parsed_changes": {
+        "수정": {
+          "title": "🐛 수정",
+          "items": [
+            "권한 변경 후 릴리스 확인"
+          ]
+        },
+        "변경사항": {
+          "title": "🔧 변경사항",
+          "items": [
+            "secret-backup 워크플로우 설치"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "1.0.0",
       "project_types": [
