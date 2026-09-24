@@ -1,6 +1,6 @@
 {
   "templateVersion": "0.12.0",
-  "installedAt": "2026-09-24 17:11:53",
+  "installedAt": "2026-09-24 17:31:45",
   "files": {
     "PROJECT-COMMON-AI-PR-SUMMARY.yaml": {
       "installed": "sha256:802fd863a34c622e66cf42bf1561129f7a4758f6851322b285cde32d2502d7ae",
@@ -25,6 +25,10 @@
     "PROJECT-COMMON-VERSION-CONTROL.yaml": {
       "installed": "sha256:0d377bcae212aebb44ce87a943a0e9467b5150f97ba80c94ae0b41fa67b9c3a1",
       "rendered": "sha256:0d377bcae212aebb44ce87a943a0e9467b5150f97ba80c94ae0b41fa67b9c3a1"
+    },
+    "PROJECT-COMMON-SECRET-FILE-UPLOAD.yaml": {
+      "installed": "sha256:f712f095eb0ad83c75b7189f3f6e8f4b9c54dce8938b3e1746f565cca899da35",
+      "rendered": "sha256:f712f095eb0ad83c75b7189f3f6e8f4b9c54dce8938b3e1746f565cca899da35"
     }
   }
 }
