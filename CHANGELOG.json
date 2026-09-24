@@ -1,13 +1,105 @@
 {
   "metadata": {
-    "lastUpdated": "2026-09-24T17:28:25Z",
-    "currentVersion": "0.5.0",
+    "lastUpdated": "2026-09-24T17:30:35Z",
+    "currentVersion": "1.0.0",
     "projectTypes": [
       "node"
     ],
-    "totalReleases": 6
+    "totalReleases": 8
   },
   "releases": [
+    {
+      "version": "1.0.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-09-24",
+      "pr_number": 8,
+      "raw_summary": "## [1.0.0]\n\n### ✨ 기능\n- 응답 형식 변경\n\n### 🐛 수정\n- 버튼 정렬 #12\n\n### 📝 문서\n- 사용법 문서 보강\n\n### ♻️ 리팩토링\n- greet 내부 구조 정리\n\n### 🔧 변경사항\n- 문자열 결합 최적화\n- 의존성 정리\n- WIP\n- Update index.js\n- 그냥 이것저것 수정함",
+      "parsed_changes": {
+        "기능": {
+          "title": "✨ 기능",
+          "items": [
+            "응답 형식 변경"
+          ]
+        },
+        "수정": {
+          "title": "🐛 수정",
+          "items": [
+            "버튼 정렬 #12"
+          ]
+        },
+        "문서": {
+          "title": "📝 문서",
+          "items": [
+            "사용법 문서 보강"
+          ]
+        },
+        "리팩토링": {
+          "title": "♻️ 리팩토링",
+          "items": [
+            "greet 내부 구조 정리"
+          ]
+        },
+        "변경사항": {
+          "title": "🔧 변경사항",
+          "items": [
+            "문자열 결합 최적화",
+            "의존성 정리",
+            "WIP",
+            "Update index.js",
+            "그냥 이것저것 수정함"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
+    {
+      "version": "1.0.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-09-24",
+      "pr_number": 8,
+      "raw_summary": "## [1.0.0]\n\n### ✨ 기능\n- 응답 형식 변경\n\n### 🐛 수정\n- 버튼 정렬 #12\n\n### 📝 문서\n- 사용법 문서 보강\n\n### ♻️ 리팩토링\n- greet 내부 구조 정리\n\n### 🔧 변경사항\n- 문자열 결합 최적화\n- 의존성 정리\n- WIP\n- Update index.js\n- 그냥 이것저것 수정함",
+      "parsed_changes": {
+        "기능": {
+          "title": "✨ 기능",
+          "items": [
+            "응답 형식 변경"
+          ]
+        },
+        "수정": {
+          "title": "🐛 수정",
+          "items": [
+            "버튼 정렬 #12"
+          ]
+        },
+        "문서": {
+          "title": "📝 문서",
+          "items": [
+            "사용법 문서 보강"
+          ]
+        },
+        "리팩토링": {
+          "title": "♻️ 리팩토링",
+          "items": [
+            "greet 내부 구조 정리"
+          ]
+        },
+        "변경사항": {
+          "title": "🔧 변경사항",
+          "items": [
+            "문자열 결합 최적화",
+            "의존성 정리",
+            "WIP",
+            "Update index.js",
+            "그냥 이것저것 수정함"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "0.5.0",
       "project_types": [
