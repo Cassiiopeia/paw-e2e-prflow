@@ -1,13 +1,24 @@
 {
   "metadata": {
-    "lastUpdated": "2026-09-24T17:18:40Z",
+    "lastUpdated": "2026-09-24T17:19:06Z",
     "currentVersion": "0.3.0",
     "projectTypes": [
       "node"
     ],
-    "totalReleases": 3
+    "totalReleases": 4
   },
   "releases": [
+    {
+      "version": "0.3.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-09-24",
+      "pr_number": 3,
+      "raw_summary": "## [0.3.0]",
+      "parsed_changes": {},
+      "parse_method": "markdown_failed"
+    },
     {
       "version": "0.3.0",
       "project_types": [
